@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.Ruserdata
+.DS_Store
+*.Rout
+R/PM0003-StradiaLatamDuplications/app.R
+*.Rdata
+Rplot01.png
+.idea
+Python ETL/pyvenv.cfg
+Python ETL/lib64
+Python ETL/bin/
+.vscode
+**/__pycache__
+ *.pyc
