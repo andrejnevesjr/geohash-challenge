@@ -1,5 +1,4 @@
 astroid==2.9.3
-docutils==0.18.1
 Geohash==1.0
 isort==5.10.1
 lazy-object-proxy==1.7.1
