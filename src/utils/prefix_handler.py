@@ -68,6 +68,7 @@ class PrefixHandler:
         Returns:
             Dict: Returns a Map with Geohash and shortest prefix
         """
+        geohash_idx = geohash_list.index(geohash_code)
         geohash_aux_list = geohash_list.copy()
         geohash_aux_list.pop(geohash_aux_list.index(geohash_code))
         geohash_output_map = {}
